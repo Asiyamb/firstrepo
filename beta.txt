@@ -1,1 +1,1 @@
-beta Gama
+alpha gama beta Gama
